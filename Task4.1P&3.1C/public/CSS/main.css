@@ -1,0 +1,80 @@
+body { 
+        padding:0px;
+        margin-left: 20px; 
+} 
+div {
+        float: left;
+}
+.title { 
+        width:512px; 
+} 
+.form { 
+        width:500px;
+        height:2000px； 
+} 
+.country {
+         width:500px; 
+} 
+.row { 
+        padding:5px 0 5px 0;
+        width:500px; 
+} 
+.region {
+        width:500px; 
+} 
+.firstname { 
+        padding:0 10px 0 0;
+        width:230px;
+        float:left; 
+} 
+.lastname { 
+        width:240px;
+        float:left;
+        padding:0 0 0 10px;
+} 
+.name { 
+        width:250px;
+} 
+.email { 
+        width:500px;
+} 
+.passward { 
+        width:500px;
+} 
+.checkpassward { 
+        width:500px; 
+} 
+.address { 
+        width:500px; 
+} 
+.addressdetail { 
+        width:250px; 
+} 
+.city { 
+        padding:0 10px 0 0;
+        width:230px;
+        float:left; 
+} 
+.state { 
+        padding:0 0 0 10px;
+        width:240px;
+        float:left; 
+} 
+.code { 
+        width:500px; 
+} 
+.number { 
+        width:500px; 
+} 
+.input {
+        width:150px;
+        position:relative;
+        left:175px;
+        right:175px;
+} 
+.info { 
+        width:500px; 
+} 
+.halfinfo { 
+        width:250px; 
+}
